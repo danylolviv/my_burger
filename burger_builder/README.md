@@ -1,8 +1,8 @@
 How to steps
 
-  npm i
+  "npm i"
 for dependencies install
-  npm run 
+  "npm run" 
 for the development startup
-  npm build 
+  "npm build" 
 for production version
